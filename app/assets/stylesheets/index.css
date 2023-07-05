@@ -1,3 +1,15 @@
 .main-banner {
+  height: 200px;
   background-color: black;
+  color: white;
+  font-size: large;
+}
+
+.main-banner-name {
+  padding: 20px;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  height: 100%;
+  width: 100%;
 }
